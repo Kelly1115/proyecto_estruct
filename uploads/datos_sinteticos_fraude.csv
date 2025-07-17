@@ -1,0 +1,151 @@
+Banco_Origen,Banco_Destino,Monto,Fecha,Hora,Ciudad_Origen,Ciudad_Destino,Canal,Internacional,Fraudulenta
+Banco Guayaquil,Banco Ruminahui,1792436,2025-10-05,00:27,Guayaquil,Manta,Online,Si,Si
+Banco del Pacifico,Banco Pichincha,1165786,2025-09-30,11:32,Manta,Guayaquil,ATM,No,No
+Banco Pichincha,Banco Guayaquil,623782,2025-03-25,06:17,Manta,Quito,Online,No,Si
+Banco Ruminahui,Banco Pichincha,202937,2025-06-27,02:03,Guayaquil,Quito,ATM,No,Si
+Banco Bolivariano,Banco Pichincha,447352,2025-09-22,09:22,Guayaquil,Manta,ATM,No,No
+Banco Pichincha,Banco Bolivariano,945749,2025-11-28,18:02,Quito,Cuenca,ATM,No,No
+Banco Bolivariano,Banco Bolivariano,994618,2025-08-14,07:28,Manta,Ambato,ATM,No,No
+Banco Ruminahui,Banco Guayaquil,249679,2025-06-05,06:29,Cuenca,Guayaquil,ATM,No,No
+Banco Ruminahui,Banco Ruminahui,1556794,2025-12-12,06:40,Guayaquil,Ambato,Ventanilla,Si,Si
+Banco Guayaquil,Banco Ruminahui,1711254,2025-10-18,11:50,Manta,Guayaquil,Online,No,Si
+Banco Guayaquil,Banco Pichincha,1770276,2025-08-03,11:32,Quito,Ambato,Online,No,Si
+Banco Guayaquil,Banco Bolivariano,1656000,2025-08-20,05:42,Quito,Guayaquil,ATM,No,Si
+Banco Bolivariano,Banco Pichincha,622811,2025-05-21,06:49,Manta,Quito,Ventanilla,No,No
+Banco Pichincha,Banco Bolivariano,1566191,2025-07-15,09:15,Cuenca,Quito,Ventanilla,No,No
+Banco Guayaquil,Banco del Pacifico,839874,2025-11-09,17:00,Ambato,Cuenca,Online,No,No
+Banco Ruminahui,Banco del Pacifico,877108,2025-10-24,20:34,Manta,Ambato,Online,No,No
+Banco Guayaquil,Banco Ruminahui,591687,2025-06-23,12:49,Cuenca,Manta,Ventanilla,No,No
+Banco Bolivariano,Banco Guayaquil,1330416,2025-05-26,08:59,Quito,Cuenca,Online,No,Si
+Banco Pichincha,Banco Pichincha,1570404,2025-02-06,15:03,Manta,Ambato,Online,No,Si
+Banco Bolivariano,Banco Bolivariano,1719735,2025-08-23,16:54,Ambato,Quito,Online,No,Si
+Banco del Pacifico,Banco Guayaquil,1599791,2025-05-31,21:54,Manta,Quito,Ventanilla,No,No
+Banco Ruminahui,Banco Ruminahui,1635184,2025-04-15,06:01,Manta,Guayaquil,Ventanilla,Si,Si
+Banco Ruminahui,Banco Pichincha,650333,2025-10-25,20:35,Quito,Ambato,Online,No,No
+Banco del Pacifico,Banco Pichincha,835341,2025-10-09,08:03,Manta,Ambato,Ventanilla,No,No
+Banco Pichincha,Banco Pichincha,1554572,2025-12-06,21:36,Cuenca,Manta,ATM,No,Si
+Banco del Pacifico,Banco Bolivariano,1504058,2025-04-21,02:20,Guayaquil,Cuenca,ATM,No,No
+Banco Bolivariano,Banco Guayaquil,663923,2025-05-16,09:31,Guayaquil,Cuenca,ATM,Si,No
+Banco Pichincha,Banco Guayaquil,233252,2025-02-13,16:35,Guayaquil,Cuenca,ATM,No,No
+Banco Bolivariano,Banco Bolivariano,603186,2025-08-16,20:06,Quito,Cuenca,ATM,Si,Si
+Banco del Pacifico,Banco Bolivariano,768079,2025-12-08,14:24,Guayaquil,Cuenca,Ventanilla,No,No
+Banco Bolivariano,Banco Guayaquil,1051578,2025-05-27,12:41,Cuenca,Quito,ATM,No,No
+Banco Bolivariano,Banco Ruminahui,1011609,2025-12-23,23:13,Manta,Quito,Online,No,No
+Banco Guayaquil,Banco Guayaquil,1169446,2025-02-12,04:47,Ambato,Cuenca,Ventanilla,No,No
+Banco Ruminahui,Banco Bolivariano,434365,2025-04-19,12:59,Guayaquil,Ambato,ATM,No,No
+Banco Bolivariano,Banco Ruminahui,377768,2025-05-18,19:24,Manta,Ambato,Online,No,Si
+Banco Ruminahui,Banco Guayaquil,395496,2025-03-31,01:54,Manta,Ambato,ATM,Si,No
+Banco del Pacifico,Banco Ruminahui,444874,2025-06-16,09:45,Manta,Ambato,Online,No,No
+Banco Pichincha,Banco Ruminahui,1682387,2025-12-08,10:25,Quito,Cuenca,ATM,No,No
+Banco Pichincha,Banco Pichincha,1418107,2025-10-21,07:46,Quito,Manta,ATM,No,No
+Banco del Pacifico,Banco Bolivariano,600869,2025-07-30,18:23,Quito,Manta,ATM,No,No
+Banco del Pacifico,Banco Ruminahui,1513031,2025-10-19,04:59,Quito,Ambato,Ventanilla,No,No
+Banco Pichincha,Banco Guayaquil,1547158,2025-09-21,13:43,Quito,Ambato,Online,No,No
+Banco Pichincha,Banco Guayaquil,1630761,2025-11-21,21:20,Ambato,Manta,Online,No,No
+Banco Bolivariano,Banco Pichincha,973146,2025-06-15,17:49,Quito,Cuenca,ATM,No,No
+Banco del Pacifico,Banco Guayaquil,1618813,2025-10-03,02:48,Guayaquil,Ambato,Online,No,Si
+Banco Bolivariano,Banco del Pacifico,489833,2025-05-27,09:22,Ambato,Cuenca,ATM,No,No
+Banco del Pacifico,Banco Pichincha,1355591,2025-08-28,23:05,Quito,Cuenca,Ventanilla,No,Si
+Banco Bolivariano,Banco Ruminahui,1903532,2025-10-30,17:32,Quito,Ambato,ATM,No,No
+Banco Ruminahui,Banco Guayaquil,384659,2025-10-09,07:53,Ambato,Manta,ATM,No,No
+Banco Guayaquil,Banco Guayaquil,387333,2025-07-27,12:34,Cuenca,Ambato,Ventanilla,No,No
+Banco del Pacifico,Banco Guayaquil,1157159,2025-05-06,14:36,Quito,Manta,Online,No,No
+Banco Guayaquil,Banco del Pacifico,197170,2025-10-16,07:59,Guayaquil,Quito,ATM,Si,No
+Banco Ruminahui,Banco Pichincha,1414730,2025-06-01,03:24,Ambato,Quito,ATM,No,Si
+Banco Bolivariano,Banco del Pacifico,443721,2025-09-07,00:40,Cuenca,Quito,ATM,No,No
+Banco Guayaquil,Banco Bolivariano,1942422,2025-05-19,01:59,Cuenca,Quito,Online,No,No
+Banco Pichincha,Banco Ruminahui,995104,2025-10-10,16:16,Cuenca,Ambato,Online,No,No
+Banco Bolivariano,Banco Pichincha,916161,2025-11-26,18:41,Cuenca,Quito,Online,No,No
+Banco Guayaquil,Banco del Pacifico,120440,2025-11-27,11:53,Manta,Ambato,Online,Si,No
+Banco Guayaquil,Banco Guayaquil,713599,2025-04-04,10:25,Ambato,Guayaquil,Ventanilla,No,Si
+Banco Ruminahui,Banco Pichincha,1270956,2025-03-28,07:20,Ambato,Guayaquil,Online,No,No
+Banco Guayaquil,Banco del Pacifico,627307,2025-10-18,23:08,Guayaquil,Manta,Ventanilla,No,No
+Banco Guayaquil,Banco del Pacifico,1760424,2025-06-04,12:02,Guayaquil,Quito,Ventanilla,No,No
+Banco Guayaquil,Banco Ruminahui,1977046,2025-03-06,05:45,Manta,Ambato,Online,No,No
+Banco Guayaquil,Banco Pichincha,820417,2025-05-10,06:48,Manta,Ambato,ATM,No,No
+Banco del Pacifico,Banco del Pacifico,482983,2025-03-19,03:55,Guayaquil,Cuenca,Ventanilla,No,No
+Banco Guayaquil,Banco Ruminahui,1157059,2025-03-15,03:45,Guayaquil,Cuenca,Ventanilla,No,No
+Banco Guayaquil,Banco del Pacifico,680358,2025-08-18,10:16,Ambato,Quito,ATM,No,No
+Banco Ruminahui,Banco Pichincha,466002,2025-12-21,07:12,Cuenca,Guayaquil,Ventanilla,No,No
+Banco Guayaquil,Banco Ruminahui,654207,2025-06-13,05:41,Quito,Manta,ATM,No,No
+Banco Pichincha,Banco Ruminahui,881281,2025-07-08,18:03,Manta,Quito,ATM,No,No
+Banco Bolivariano,Banco Guayaquil,213841,2025-07-12,05:38,Manta,Quito,ATM,No,No
+Banco Pichincha,Banco del Pacifico,1763783,2025-01-22,08:39,Quito,Guayaquil,Online,No,Si
+Banco Guayaquil,Banco Bolivariano,483682,2025-02-18,00:13,Manta,Quito,Online,No,Si
+Banco Guayaquil,Banco Bolivariano,819512,2025-06-29,21:15,Manta,Ambato,Online,No,Si
+Banco Pichincha,Banco Guayaquil,184906,2025-12-15,05:44,Quito,Guayaquil,ATM,No,No
+Banco Ruminahui,Banco del Pacifico,531510,2025-05-03,16:31,Manta,Guayaquil,ATM,No,No
+Banco del Pacifico,Banco Pichincha,1051058,2025-11-25,18:29,Ambato,Guayaquil,ATM,No,No
+Banco Pichincha,Banco Ruminahui,1028538,2025-09-05,13:16,Quito,Cuenca,Online,No,No
+Banco Bolivariano,Banco Bolivariano,192364,2025-02-09,08:07,Manta,Ambato,Ventanilla,No,No
+Banco Ruminahui,Banco Pichincha,1610881,2025-03-13,23:10,Manta,Quito,Ventanilla,No,No
+Banco Ruminahui,Banco Ruminahui,1057887,2025-06-26,02:44,Cuenca,Quito,ATM,No,No
+Banco Ruminahui,Banco Bolivariano,648095,2025-11-08,16:08,Quito,Manta,ATM,No,No
+Banco Ruminahui,Banco Guayaquil,1067265,2025-08-04,10:48,Cuenca,Manta,ATM,Si,No
+Banco Pichincha,Banco Bolivariano,1447072,2025-11-07,04:43,Manta,Cuenca,ATM,No,No
+Banco Pichincha,Banco Pichincha,1843261,2025-11-16,04:10,Ambato,Guayaquil,ATM,No,Si
+Banco Pichincha,Banco Guayaquil,1330734,2025-05-24,17:02,Ambato,Quito,Online,No,No
+Banco Ruminahui,Banco Guayaquil,372966,2025-07-26,01:10,Cuenca,Guayaquil,Online,No,No
+Banco Guayaquil,Banco Bolivariano,1399461,2025-03-25,22:17,Ambato,Guayaquil,ATM,No,No
+Banco Pichincha,Banco del Pacifico,1395479,2025-06-18,15:12,Ambato,Manta,Online,No,No
+Banco Guayaquil,Banco Guayaquil,706855,2025-11-21,11:00,Manta,Cuenca,Online,No,Si
+Banco Ruminahui,Banco Guayaquil,1483715,2025-05-25,03:26,Cuenca,Guayaquil,Online,No,Si
+Banco Ruminahui,Banco Ruminahui,1260682,2025-03-18,02:31,Guayaquil,Quito,Ventanilla,No,No
+Banco Ruminahui,Banco Guayaquil,505808,2025-03-03,04:54,Cuenca,Quito,Ventanilla,No,No
+Banco Guayaquil,Banco Pichincha,230885,2025-05-22,01:47,Manta,Quito,ATM,No,No
+Banco Ruminahui,Banco del Pacifico,1864360,2025-10-23,13:45,Ambato,Cuenca,Online,No,No
+Banco Ruminahui,Banco del Pacifico,397656,2025-12-26,04:36,Quito,Cuenca,Ventanilla,No,No
+Banco Ruminahui,Banco Bolivariano,1681755,2025-09-25,07:20,Manta,Cuenca,Ventanilla,No,No
+Banco Pichincha,Banco Pichincha,308398,2025-08-27,14:25,Ambato,Guayaquil,Ventanilla,No,No
+Banco Ruminahui,Banco Bolivariano,992778,2025-08-22,17:58,Quito,Ambato,Online,No,No
+Banco Ruminahui,Banco Ruminahui,657932,2025-04-12,03:59,Guayaquil,Manta,Ventanilla,No,Si
+Banco del Pacifico,Banco del Pacifico,432364,2025-12-25,16:42,Ambato,Quito,Online,No,No
+Banco Guayaquil,Banco Ruminahui,370096,2025-02-21,12:25,Guayaquil,Cuenca,ATM,No,No
+Banco del Pacifico,Banco Bolivariano,1382205,2025-02-13,13:51,Manta,Guayaquil,Ventanilla,No,No
+Banco Pichincha,Banco Pichincha,261907,2025-01-18,07:52,Ambato,Quito,Online,Si,Si
+Banco Ruminahui,Banco Pichincha,825247,2025-12-03,08:54,Cuenca,Quito,ATM,No,Si
+Banco Guayaquil,Banco Ruminahui,856805,2025-07-19,02:42,Guayaquil,Manta,ATM,No,No
+Banco Ruminahui,Banco Bolivariano,1231592,2025-07-03,03:31,Manta,Cuenca,Ventanilla,No,No
+Banco Guayaquil,Banco del Pacifico,1261682,2025-02-03,14:59,Manta,Ambato,ATM,Si,Si
+Banco del Pacifico,Banco Guayaquil,1721837,2025-01-22,13:06,Manta,Guayaquil,Online,No,Si
+Banco Guayaquil,Banco Pichincha,694516,2025-08-23,04:45,Ambato,Quito,ATM,Si,Si
+Banco Bolivariano,Banco Pichincha,791489,2025-04-26,15:50,Quito,Guayaquil,Online,No,No
+Banco Guayaquil,Banco del Pacifico,1235248,2025-02-05,07:10,Guayaquil,Ambato,Ventanilla,Si,No
+Banco Bolivariano,Banco Pichincha,1435493,2025-11-01,13:46,Manta,Guayaquil,Online,No,No
+Banco del Pacifico,Banco Pichincha,807196,2025-10-17,06:12,Quito,Ambato,Online,No,No
+Banco Guayaquil,Banco Guayaquil,1039778,2025-04-09,17:00,Quito,Guayaquil,Online,No,Si
+Banco Pichincha,Banco Ruminahui,242265,2025-12-11,07:32,Guayaquil,Ambato,Ventanilla,No,No
+Banco Bolivariano,Banco Guayaquil,1907249,2025-01-08,15:54,Manta,Guayaquil,Online,No,No
+Banco Guayaquil,Banco del Pacifico,510628,2025-05-09,02:26,Manta,Cuenca,Ventanilla,No,No
+Banco Pichincha,Banco Ruminahui,1342401,2025-02-26,08:00,Guayaquil,Manta,Ventanilla,No,No
+Banco Guayaquil,Banco Guayaquil,1856746,2025-10-26,14:40,Quito,Manta,ATM,No,Si
+Banco Bolivariano,Banco Pichincha,1785078,2025-08-22,08:52,Guayaquil,Quito,Online,No,No
+Banco Guayaquil,Banco Bolivariano,1010405,2025-07-20,04:32,Cuenca,Guayaquil,Online,No,No
+Banco Guayaquil,Banco Ruminahui,617249,2025-06-17,22:00,Manta,Ambato,Online,No,Si
+Banco Guayaquil,Banco Guayaquil,449259,2025-07-30,08:37,Ambato,Manta,Online,No,No
+Banco Ruminahui,Banco Ruminahui,275544,2025-02-12,00:19,Manta,Guayaquil,Online,No,No
+Banco Pichincha,Banco Guayaquil,1444271,2025-03-15,10:28,Cuenca,Guayaquil,ATM,No,No
+Banco del Pacifico,Banco Pichincha,199405,2025-07-04,00:35,Ambato,Manta,Online,Si,Si
+Banco Bolivariano,Banco del Pacifico,311104,2025-03-05,13:52,Guayaquil,Cuenca,Online,No,No
+Banco Ruminahui,Banco Bolivariano,232474,2025-10-07,17:55,Guayaquil,Quito,Ventanilla,No,No
+Banco Ruminahui,Banco Bolivariano,1762154,2025-09-05,06:54,Ambato,Quito,Ventanilla,No,No
+Banco Bolivariano,Banco Guayaquil,943535,2025-06-29,11:59,Guayaquil,Cuenca,Ventanilla,No,No
+Banco del Pacifico,Banco Ruminahui,397887,2025-11-27,06:41,Manta,Cuenca,ATM,No,No
+Banco Pichincha,Banco Ruminahui,825517,2025-09-05,22:52,Manta,Guayaquil,ATM,No,No
+Banco Ruminahui,Banco Ruminahui,1247505,2025-03-15,20:53,Cuenca,Manta,Ventanilla,Si,No
+Banco Bolivariano,Banco Ruminahui,1508739,2025-12-23,14:42,Guayaquil,Quito,Ventanilla,No,No
+Banco del Pacifico,Banco Bolivariano,1953100,2025-06-14,23:19,Guayaquil,Ambato,ATM,No,Si
+Banco Ruminahui,Banco Pichincha,1441509,2025-05-11,07:39,Ambato,Quito,Ventanilla,No,No
+Banco Guayaquil,Banco del Pacifico,462578,2025-09-05,19:04,Ambato,Quito,Ventanilla,Si,No
+Banco Pichincha,Banco Ruminahui,436391,2025-02-28,15:56,Quito,Manta,Ventanilla,No,No
+Banco Bolivariano,Banco Bolivariano,278956,2025-01-16,06:23,Quito,Ambato,Online,No,No
+Banco Bolivariano,Banco del Pacifico,1693290,2025-04-04,16:31,Manta,Ambato,Online,No,Si
+Banco Guayaquil,Banco Ruminahui,667018,2025-09-30,02:11,Manta,Ambato,Online,No,No
+Banco Pichincha,Banco Bolivariano,1076354,2025-06-24,02:49,Ambato,Guayaquil,ATM,No,No
+Banco Ruminahui,Banco del Pacifico,1100469,2025-04-14,22:33,Manta,Ambato,ATM,Si,Si
+Banco Ruminahui,Banco Ruminahui,1724136,2025-12-13,23:37,Ambato,Cuenca,ATM,No,No
+Banco Guayaquil,Banco Pichincha,235957,2025-09-27,05:04,Guayaquil,Manta,Online,No,No
+Banco Guayaquil,Banco Bolivariano,1549861,2025-11-25,05:49,Quito,Cuenca,ATM,No,No
+Banco Guayaquil,Banco Pichincha,205440,2025-10-28,23:51,Quito,Cuenca,ATM,No,No
+Banco Bolivariano,Banco del Pacifico,770472,2025-05-30,03:13,Manta,Quito,Ventanilla,No,No
+Banco Bolivariano,Banco Pichincha,1634734,2025-04-26,14:05,Cuenca,Manta,ATM,No,Si
