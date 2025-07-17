@@ -35,7 +35,7 @@ def calcular_riesgos_y_montos(grafo):
 
 def ordenar_bancos_por_monto(montos_prestados):
     """
-    Ordena bancos de mayor a menor según monto prestado.
+    Se ordena bancos de mayor a menor según monto prestado.
     Parámetros:
       - montos_prestados: dict {banco: monto}
     Retorna:

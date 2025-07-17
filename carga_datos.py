@@ -2,7 +2,7 @@ import pandas as pd
 
 def cargar_datos_excel(ruta_archivo=r"base_de_datos.xlsx"):
     """
-    Lee el archivo Excel que contiene las relaciones de préstamos interbancarios.
+    Se va a cargar el archivo Excel que contiene las relaciones de préstamos interbancarios.
     Columnas esperadas: 'Banco_Origen', 'Banco_Destino', 'Monto', 'Fecha'.
 
     Retorna un DataFrame limpio con tipos correctos.
